@@ -7,7 +7,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.13.
 
 ## Website Examples
-https://github.com/mwalshd7/Angular8-WebAPI-Prototype/issues/1#issue-514170300
+![alt text](https://github.com/mwalshd7/Angular8-WebAPI-Prototype/issues/1#issue-514170300)
 
 
 
