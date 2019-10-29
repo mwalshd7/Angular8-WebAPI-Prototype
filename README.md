@@ -1,5 +1,5 @@
 # Angular8API NewsWebApp **Prototype**
-1. Prototype News WebApp using NewsApi as a source.
+1. Prototype News WebApp using NewsApi as API source.
 2. Angular8, Bootstrap and TypeScript.
 3. Key Topics: Angular 8, Typescript, HttpClient, Observables, JSON, RestApi.
 4. Tutorial from www.techiediaries.com 
