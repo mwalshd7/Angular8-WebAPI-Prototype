@@ -1,6 +1,10 @@
-# Angular8API
+# Angular8API NewsWebApp **Prototype**
+1. Prototype News WebApp using NewsApi as a source.
+2. Angular8, Bootstrap and TypeScript.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.13.
+
+
 
 ## Development server
 
