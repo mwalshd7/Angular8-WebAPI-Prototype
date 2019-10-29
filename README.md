@@ -2,7 +2,7 @@
 1. Prototype News WebApp using NewsApi as a source.
 2. Angular8, Bootstrap and TypeScript.
 3. HttpClient, JSON, RestApi.
-4. Tutorial from www.techdiaries.com 
+4. Tutorial from www.techiediaries.com 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.13.
 
