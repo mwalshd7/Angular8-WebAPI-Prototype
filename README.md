@@ -6,10 +6,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.13.
 
-## Website Examples
+## Website Example
 ![NewsAppFrontPage](https://user-images.githubusercontent.com/26001786/67802448-0ef35a80-fa83-11e9-8a40-bbeab66b89e4.PNG)
-
-
 
 ## Development server
 
